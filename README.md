@@ -1,7 +1,7 @@
 # RAML-Test
 
-[![Build Status](https://travis-ci.com/sadasystems/kube-config-utility.svg?token=dsDcJ24J6wpmry92sFaJ&branch=master)](https://travis-ci.com/sadasystems/kube-config-utility)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5ce650ebcb7649e3b55936d68ba054e0)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sadasystems/kube-config-utility&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/oshalygin/raml-test.svg?branch=master)](https://travis-ci.org/oshalygin/raml-test)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dd2bc0bd4b614832ba8e12e1cf1781db)](https://www.codacy.com/app/oshalygin/raml-test?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=oshalygin/raml-test&amp;utm_campaign=Badge_Grade)
 
 This utility is used to generate tests based on a RAML 1.0 specification.
 

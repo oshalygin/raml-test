@@ -1,0 +1,13 @@
+*.gif
+*.GIF
+*.png
+*.PNG
+*.jpg
+*.jpeg
+*.svg
+*.css
+*.html
+*.json
+*.ico
+*.xml
+.eslint

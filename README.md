@@ -1,5 +1,5 @@
 # RAML-Test
-
+[![GitHub issues](https://img.shields.io/github/issues/oshalygin/raml-test.svg "GitHub issues")](https://github.com/oshalygin/raml-test/issues)
 [![Build Status](https://travis-ci.org/oshalygin/raml-test.svg?branch=master)](https://travis-ci.org/oshalygin/raml-test)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/dd2bc0bd4b614832ba8e12e1cf1781db)](https://www.codacy.com/app/oshalygin/raml-test?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=oshalygin/raml-test&amp;utm_campaign=Badge_Grade)
 
